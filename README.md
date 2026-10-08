@@ -109,4 +109,4 @@ vulli dhanush
 
 ## 🔗 GitHub Repository
 
-[AI SaaS Image Generation Platform](https://github.com/Monukumawa/Ai-saas-image-generation-platform)
+[AI SaaS Image Generation Platform](https://github.com/VulliDhanush/Ai-saas-image-generation-platform)
