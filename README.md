@@ -54,7 +54,7 @@ server/   -> Backend
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Monukumawa/Ai-saas-image-generation-platform.git
+git clone https://github.com/dhanushvulli/Ai-saas-image-generation-platform.git
 ```
 
 ---
